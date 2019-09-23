@@ -1,3 +1,4 @@
+##maven用Ignore
 target/
 pom.xml.tag
 pom.xml.releaseBackup
